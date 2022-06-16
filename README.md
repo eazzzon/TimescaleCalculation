@@ -1,4 +1,4 @@
-# Python scripts for diffusion chronometry in olivine
+# Diffusion chronometry in olivine with python
 Code authors: Yishen Zhang, Olivier Namur, Thomas van Gerve. 
 
 Contact me at yishen.zhang@kuleuven.be
